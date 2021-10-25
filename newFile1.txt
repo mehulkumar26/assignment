@@ -6,3 +6,5 @@ HipSTR (Haplotype inference and phasing for Short Tandem Repeats) is a tool to g
 New Line is added to the file
 
 Adding new line to the file.
+
+Added a line in Sample Project
